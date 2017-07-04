@@ -15,4 +15,11 @@
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="twitter:title" content="{{ page.title }}" />
+    
+{% endif %}
+
+{% if page.hero %}
+<meta property="og:image" content="{{ page.hero }}">
+  {% else %}
+    <meta property="og:image" content="/images/logos/FB-Profile.jpg">
     {% endif %}
