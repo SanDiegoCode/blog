@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Java Session! (Download Libraries)
+title: Last Java Session (Web Dev Next Week)
 date: 2017-07-07
 author: nir
 hero: https://cdn2.hubspot.net/hubfs/2486034/Vaporware%20Stock%20Images/hello_world.gif
