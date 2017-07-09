@@ -3,7 +3,7 @@ layout: post
 title: Last Java Session (Web Dev Next Week)
 date: 2017-07-07
 author: nir
-hero: https://cdn2.hubspot.net/hubfs/2486034/Vaporware%20Stock%20Images/hello_world.gif
+hero: https://user-images.githubusercontent.com/12438494/27983212-a7ecd826-636b-11e7-89f6-fd9ab4d786ef.png
 tags:
  - information
  - camps
