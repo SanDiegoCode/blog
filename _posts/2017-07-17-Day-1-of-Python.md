@@ -14,6 +14,6 @@ Hope you had fun learning the basics of python.
 
 Today we learned input output, control structures, and basic data types.
 
-As promised, here is the [codeskulptor file](http://www.codeskulptor.org/#user43_5cLcBfhrQG_1.py) from today:
+As promised, here is the [codeskulptor file](http://www.codeskulptor.org/#user43_5cLcBfhrQG_2.py) from today:
 
 ![Image](/images/pythonday1.png)
