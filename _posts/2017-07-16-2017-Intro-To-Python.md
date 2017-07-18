@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to Python
-date: 2017-07-13
+date: 2017-07-16
 author: Ronak Shah
 hero: /images/webdevday1.jpg
 tags:
