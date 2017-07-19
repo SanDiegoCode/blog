@@ -1,0 +1,19 @@
+#!/usr/bin/python
+import os
+import sys
+import time
+
+input = sys.argv.pop(0)
+input = sys.argv
+input = "-".join(input)
+postName = input
+
+date = time.strftime("%Y-%m-%d")
+postName = date + '-' + postName + '.md'
+cmd = 'touch ' + postName
+os.system(cmd)
+templateContent = "---\nlayout: post\ntitle: " + (' '.join(sys.argv)) + "\ntags: []\n---"
+
+f = open(postName, 'w')
+f.write(templateContent)
+f.close()
